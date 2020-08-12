@@ -26,6 +26,6 @@
 [chrome]: https://davidgonzalezfx.xyz/
 <br>
 
-⚡ Ask me about: Javascript, Web delopvemnt, Git, Github, Algorithms...
+⚡ Ask me about: Javascript, Web development, Git, Github, Algorithms...
 
 ⚡ Learning:  Devops, Databases, React and How to learn better hahah
