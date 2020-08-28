@@ -13,7 +13,9 @@
 </div>
 <br/>
 
-
+<div align="center">
+  <h3 align="center">Contact me</h3> 
+</div>
 <p align="center">
     <!-- gmail-->
     <a href="mailto:dvdramos16@gmai.com"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="30px" alt="e-mail"></a> &nbsp; &nbsp;
@@ -24,8 +26,7 @@
     <!-- twitter -->
     <a href="https://twitter.com/davidgonzalezfx"><img src="https://webtus.net/wp-content/uploads/2016/05/Icon-Twitter.png" width="30px" alt="Twitter"> </a> &nbsp; &nbsp;
 	<a href="https://instagram.com/davidgonzalezfx"><img src="https://www.scouts.org.ar/wp-content/uploads/2019/05/logo-ig.png" width="30px" alt="Instagrma"></a> &nbsp; &nbsp;
-	<br>
-	⚡ Ask me about: Javascript, Web development, Git, Github, Algorithms...
-	<br>
-	⚡ Learning:  Devops, Databases, How to learn better
+	
+	⚡ Ask me about: Javascript, Web development, Git, Github, Algorithms... &nbsp; &nbsp;
+	⚡ Learning:  Devops, Databases, How to learn better &nbps; &nbsp;
 </p>
