@@ -25,6 +25,6 @@
     <a href="https://davidgonzalezfx.com"><img src="https://cdn.icon-icons.com/icons2/1875/PNG/512/web_120072.png" width="30px" alt="Web"></a> &nbsp; &nbsp;
     <!-- twitter -->
     <a href="https://twitter.com/davidgonzalezfx"><img src="https://webtus.net/wp-content/uploads/2016/05/Icon-Twitter.png" width="30px" alt="Twitter"> </a> &nbsp; &nbsp;
-    <a href="https://instagram.com/davidgonzalezfx"><img src="https://www.scouts.org.ar/wp-content/uploads/2019/05/logo-ig.png" width="30px" alt="Instagrma"></a> &nbsp; &nbsp;
+    <a href="https://instagram.com/davidgonzalezfx"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
 </p>
 <p align="center">⚡ Ask me about: Javascript, Web development, Git, Github, Algorithms...<br>⚡ Learning:  Devops, Databases, How to learn better</p>
